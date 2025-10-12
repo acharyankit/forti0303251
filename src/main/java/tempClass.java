@@ -15,6 +15,7 @@ public class tempClass {
 			int lenS = s.length();
 			for(int i=0; i<lenS; i++) {
 				System.out.println("testing post commit modify msg");
+				System.out.println("testing post commit modify msg - 2");
 //				System.out.println(nsArr[lenS-]);
 
 			}
